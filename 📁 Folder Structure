@@ -1,0 +1,4 @@
+password-generator/
+├── password_generator.py
+├── README.md
+└── requirements.txt  # (optional, usually empty for this)
